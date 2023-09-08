@@ -1,0 +1,15 @@
+D:\.Net\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.exe
+D:\.Net\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.deps.json
+D:\.Net\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.runtimeconfig.json
+D:\.Net\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.dll
+D:\.Net\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.pdb
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.AssemblyReference.cache
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfoInputs.cache
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfo.cs
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.CoreCompileInputs.cache
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.dll
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\refint\MatchDetailsManagementSystem.dll
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.pdb
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.genruntimeconfig.cache
+D:\.Net\MatchDetailsManagementSystem\obj\Debug\net6.0\ref\MatchDetailsManagementSystem.dll
